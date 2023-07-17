@@ -13,3 +13,7 @@ advertise for, or the platform you are advertising on about your product.
 Typically, a product and service-based business always need their Data Scientist to predict
 their future sales with every step they take to manipulate the cost of advertising their
 product
+
+# Task 3: IRIS FLOWER CLASSIFICATION
+
+Iris flower has three species; setosa, versicolor, and virginica, which differs according to their measurements. Now assume that you have the measurements of the iris flowers according to their species, and here your task is to train a machine learning model that can learn from the measurements of the iris species and classify them.
